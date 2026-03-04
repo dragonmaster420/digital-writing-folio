@@ -1,1 +1,1 @@
-
+I'm really keen on e-literature as a means to present stories in new ways. You can be more ambitions with visual elements and use a wider scope in terms of technology, but also use certain tools to make what you're trying to communicate get across better. Reader interactivity is another exciting avenue. Seems like digital stuff could be more engaging and facilitate a kind of collaboration between author and reader. Like my playthrough of 'Shade' is a text in itself, and would differ from basically everyone else's.
