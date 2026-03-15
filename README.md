@@ -1,6 +1,8 @@
 # digital-writing-folio
 My Digital Writing Folio :3
 
+I write fiction. Generally queer Australian stuff, but have started getting into speculative fiction/sci-fi. Usually, I'll write stories in a notebook and then type them up, repeating that process for pieces that I'm more serious about. I like this method because it kind of forces me to become more and more familiar with what I'm writing, but it's mostly for editing's sake. The only real constraint that comes with it is that it can take a while, but I do write fairly often. What I'm most curious about writing in the digital environment is how I can push my creativity, and how I can tell stories that I mightn't have been able to do as effectively in simple prose.
+
 AI Reflection 12/03
 I'm not that keen on generative AI, but I realise I kind of have to accept the inevitability of it. As much as I want it to be really strictly regulated, especially in creative industries, I dunno if that's gonna happen. A creative writing class at a university is for sure an echo chamber, because I know so many people don't have the same issues with sitting back and plugging in prompts.
 I'm in the camp that real brain are always gonna make better stuff, even if I can't exactly articulate how and what 'better' is, and what separates it--and I don't think AI could either. What gets me, though, is that I know most people don't necessarily give a fuck if what they're engaging with is 'better' in that indescribable way.
