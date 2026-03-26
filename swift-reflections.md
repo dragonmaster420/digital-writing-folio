@@ -33,3 +33,12 @@ Since most of my writing now is set in the present and centres on the young adul
 I’ve recently gotten into Substack as a means of sharing short stories I’m writing, too. I’m finding myself getting sort of cynical, having similar issues with it that critics of ‘Instapoetry’ have. But it’s hard to know, through the screen, who’s putting it on for the sake of appearances and who genuinely wants to write.
 
 But I also don’t like how immediately sceptical I am. I feel like that’s a by-product of a lot of this ‘post-Web’ stuff.
+
+
+**Week 4**
+
+I’ve been sitting on this idea of the ‘Carlton Gardens Possum Man’ for ages now, based on a bit me and my friends were doing towards the end of a night out. It was originally going to be part of a collection of short stories I’m writing, but I think it’ll work well in a digital form.
+
+I haven’t done much horror before, and I think what platforms like Twine allow in terms of visuals and interactivity will suit the narrative I have in mind. That’s what’s inspired me on a personal level, and I suppose, in a broader sense, I’m thinking of talking to like a post-breakup isolation and recklessness, especially in a gay context.
+
+So far, I’ve drafted it to follow a guy who’s binge-drinking after splitting up with his boyfriend, and he meets a sort of mutant possum-man who he confides in, but who becomes this negative presence. Not sure what the exact meaning is there, but I think it’ll be scary.
