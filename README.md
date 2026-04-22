@@ -11,3 +11,10 @@ In Wall-E, the people on that spaceship thing evolve into these post-humans who 
 **19/03 Importance of Documenting Process**
 I have so much of my old writing saved on my laptop, but admittedly it’s not very well organised. There’s a ‘uni’ folder and there’s everything else that’s not in that. I am grateful that I’ve backed a lot of stuff up via email, since I can kind of chart its progression with dates and all that attached.
 Sharing knowledge with my peers has been a nice aspect of uni, and one that, prior to enrolling I convinced myself I didn’t really need. I’ve gained so much from workshopping processes. Discussing past sessions, my friends sort of act as addition archives for writing I’ve done
+
+Three Tasks:
+Plan storyline
+Research costume/makeuup
+Take draft photos/storyboard
+
+I did end up successfully streamlining my idea for 'The Carlton Gardens Possum Man' into a semi-linear narrative like I planned to. Semi-linear in the sense that it has offshoots that the player can take, but they always lead back to the predecided plot. I did begin research on costumes for my titular Possum Man, looking at onesies and such. Though of course, many of them were based on the American Opossum. I didn't get around to storyboarding because of difficulties with my fractured arm, which is an issue even as I type this.
