@@ -14,12 +14,14 @@ Sharing knowledge with my peers has been a nice aspect of uni, and one that, pri
 
 **WEEK 6**
 
-Three Tasks:
+Three tasks to be done by next week:
 
 FLESH OUT STORYLINE. I have a rough idea, but I'd like to be more detailed and start to think practically about what the Twine format can add to an otherwise written plot.
 
 RESEARCH COSTUME. Since I'm imagining the titular Possum Man wearing a onesie or an oodie, I need to find out where I can source something like that.
 
 TAKE DRAFT PHOTOS OR STORYBOARD. I plan on this piece really involve on visuals, so settling on a sort of overarching aesthetic or style of photography is important.
+
+**WEEK 7**
 
 I did end up successfully streamlining my idea for 'The Carlton Gardens Possum Man' into a semi-linear narrative like I planned to. Semi-linear in the sense that it has offshoots that the player can take, but they always lead back to the predecided plot. I did begin research on costumes for my titular Possum Man, looking at onesies and such. Though of course, many of them were based on the American Opossum. I didn't get around to storyboarding because of difficulties with my fractured arm, which is an issue even as I type this.
