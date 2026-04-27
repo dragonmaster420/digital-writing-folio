@@ -42,3 +42,21 @@ I’ve been sitting on this idea of the ‘Carlton Gardens Possum Man’ for age
 I haven’t done much horror before, and I think what platforms like Twine allow in terms of visuals and interactivity will suit the narrative I have in mind. That’s what’s inspired me on a personal level, and I suppose, in a broader sense, I’m thinking of talking to like a post-breakup isolation and recklessness, especially in a gay context.
 
 So far, I’ve drafted it to follow a guy who’s binge-drinking after splitting up with his boyfriend, and he meets a sort of mutant possum-man who he confides in, but who becomes this negative presence. Not sure what the exact meaning is there, but I think it’ll be scary.
+
+**Week 7**
+
+ITERATION: I haven’t tried out any iterations of my idea yet because I’ve been planning the plot, and now have the scope and all the main beats written out. What I anticipate I’ll end up testing are different audiovisual styles. The story is pretty much sorted, but the horror aspect is integral. I’ve been considering how best to take the photos I’ll use in the piece to best create the unnerving atmosphere I’m going for, whether that’s using a proper camera for optimal quality, or my phone for a more found-footage, everyday look.
+I know that immersion is going to be the deciding factor in terms of how impactful the piece is. I’d also like to experiment with first-person and second-person perspective. Right now, I’m in two minds about which to go with, since second-person would situate the player as the protagonist, but might throw them if they don’t have much in common with the character. I’ll have to do some beta tests to get opinions on that.
+Tests with potential players will be a great help, I think, since there’s such a broad range of what people find scary, and stuff that wouldn’t even occur to me to heighten or exclude.
+
+
+THURSDAY: The purpose of my piece ‘The Carlton Gardens Possum Man’ is to create an immersive experience that’s mostly based in horror, but which also has some tender moments to get players to sympathise with the main character.
+
+The idea germinated from visiting the Carlton Gardens late at night and seeing the plastic they wrap around tree trunks to keep possums from hanging around. That somehow lead to me thinking up the humanoid ‘Possum Man’ that maybe these measures were put in place to ward off.
+
+In the way of further inspiration and references, I’m aiming to model the look of the Possum Man on things like Roger ‘the dog man’ from The Shining (1980) and the ‘eagle with human proportions image’ that’s made the rounds on social media. For me, both of these characters have an uncanny quality that generates a real visceral ‘fear of the unexplained’ response for me. Theme-wise, The Summer Hikaru Died (2025) has had an impact on me recently, and the inclusion of an unhealthy attachment to something has carried over into my concept for this piece, as well.
+
+The plot will be semi-linear, in that there is a predetermined outcome, but players can take brief, circular diversions from it to personalise their experiences. The four ‘rooms’ that I’m planning on mocking up are what will be the first encounter with the Possum Man, where players can choose to stay and talk to him, or to leave, only to be followed, and for the same ensuing conversation to play out.
+
+To prepare my presentation, the most daunting task ahead of me is to actually transpose the vision I have for the piece into code that I can put into Twine. Even something as seemingly simple as allotting a time for a link to show up took a short while to code in, so I see a lot of Googling in my near future.
+
