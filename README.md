@@ -12,6 +12,7 @@ In Wall-E, the people on that spaceship thing evolve into these post-humans who 
 I have so much of my old writing saved on my laptop, but admittedly it’s not very well organised. There’s a ‘uni’ folder and there’s everything else that’s not in that. I am grateful that I’ve backed a lot of stuff up via email, since I can kind of chart its progression with dates and all that attached.
 Sharing knowledge with my peers has been a nice aspect of uni, and one that, prior to enrolling I convinced myself I didn’t really need. I’ve gained so much from workshopping processes. Discussing past sessions, my friends sort of act as addition archives for writing I’ve done
 
+**WEEK 6**
 Three Tasks:
 Plan storyline
 Research costume/makeuup
