@@ -13,6 +13,7 @@ I have so much of my old writing saved on my laptop, but admittedly it’s not v
 Sharing knowledge with my peers has been a nice aspect of uni, and one that, prior to enrolling I convinced myself I didn’t really need. I’ve gained so much from workshopping processes. Discussing past sessions, my friends sort of act as addition archives for writing I’ve done
 
 **WEEK 6**
+
 Three Tasks:
 Plan storyline
 Research costume/makeuup
