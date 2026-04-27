@@ -22,6 +22,8 @@ RESEARCH COSTUME. Since I'm imagining the titular Possum Man wearing a onesie or
 
 TAKE DRAFT PHOTOS OR STORYBOARD. I plan on this piece really involve on visuals, so settling on a sort of overarching aesthetic or style of photography is important.
 
+Progress Audit: My concept for the piece is a sort of interactive visual novel based around 'The Carlton Gardens Possum Man'. I've not written much horror, so I'm keen to see where I can take it. I'm meaning for it to allude to the idea of relying on unhealthy things (substances, bad relationships) during tough personal times. I've mapped out the general outline of the plot here: https://au.miro.com/app/board/u3jVOfw54Uo=/?share_link_id=536621499105 It's going to be linear, essentially, but with diverging paths that players can take that ultimately lead back to the main thread as a way of creating a false sense of choice. To me, this makes the most sense both in terms practicality in my writing of it, and thematically. Images will be make a huge contribution, being a first-person view of what the character sees, that will enhance the horror along with sound.
+
 **WEEK 7**
 
 I did end up successfully streamlining my idea for 'The Carlton Gardens Possum Man' into a semi-linear narrative like I planned to. Semi-linear in the sense that it has offshoots that the player can take, but they always lead back to the predecided plot. I did begin research on costumes for my titular Possum Man, looking at onesies and such. Though of course, many of them were based on the American Opossum. I didn't get around to storyboarding because of difficulties with my fractured arm, which is an issue even as I type this.
