@@ -28,3 +28,5 @@ PROGRESS AUDIT: My concept for the piece is a sort of interactive visual novel b
 
 PROGRESS CHECK: I did end up successfully streamlining my idea for 'The Carlton Gardens Possum Man' into a semi-linear narrative like I planned to. Semi-linear in the sense that it has offshoots that the player can take, but they always lead back to the predecided plot. I did begin research on costumes for my titular Possum Man, looking at onesies and such. Though of course, many of them were based on the American Opossum. I didn't get around to storyboarding because of difficulties with my fractured arm, which is an issue even as I type this.
 
+**WEEK 10**
+Good voice, good horror elements (hard cuts, foreshadowing, etc.), format condusive to storytelling, perhaps make voice not so abrasive(?), remove some lines like throwing the bottle up
