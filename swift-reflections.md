@@ -60,3 +60,10 @@ The plot will be semi-linear, in that there is a predetermined outcome, but play
 
 To prepare my presentation, the most daunting task ahead of me is to actually transpose the vision I have for the piece into code that I can put into Twine. Even something as seemingly simple as allotting a time for a link to show up took a short while to code in, so I see a lot of Googling in my near future.
 
+
+**Week 10**
+
+My piece has certainly undergone an evolution from the original idea to where it is currently. It came to me first as a concept for a short story. At that point in time, I only had this visualisation of the titular possum man, and not much of anything else.
+It was engaging with class discussions and being in situations where I was asked to explain my idea that encouraged me to think in more detail. There had to a narrative for readers to experience and, in order to meet accepted definitions of e-literature, it would benefit from having some semblance of a ‘meaning’.
+I eventually landed on the theme of alcoholism as a framework for the story. The emergence of the possum man in the protagonist’s life represents his turn to unhealthy habits, and its lingering presence his inability to shake them. This concept became evident, too, in the overall shape of the story. From the get-go, I knew I wanted there to be a linear path for users to follow, but in researching e-literature, I realised the possibility of incorporating breakaway routes that, unavoidably, would return to the plot. Attempts to do otherwise result in self-destructive loops.
+The most significant way I had to adapt to the change in form, however, was in the way I wrote the actual text. I discovered that, in an effort to generate atmosphere by describing scenes, I was in fact doing the opposite by not letting the images I was including speak for themselves.
