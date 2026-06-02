@@ -63,6 +63,16 @@ To prepare my presentation, the most daunting task ahead of me is to actually tr
 
 **Week 10**
 
+Archival bots:
+
+I think that in digital works, affect and emotion are important as a reminder that they were written by a person. And if an author includes their feelings in a piece to bring out the same in readers, so can they be omitted, or done in a way that’s more robotic.
+
+Bringing external, academic sources into reflective practice helps both legitimise and support it, as well as clarify from other perspectives what the author is getting at to create this bricolage that’s uniquely their own. In the case of this reading especially, the nature of the sources adds to the emotional weight.
+
+Shaping reflective writing into a narrative is good for both streamlining the thoughts of the author and creates a sort of ‘story shape’ that readers can follow. In this piece, the narrative seems to chart the author’s progression from stress and uncertainty to a nostalgic acceptance as her work becomes more realised.
+
+250 words of reflection:
+
 My piece has certainly undergone an evolution from the original idea to where it is currently. It came to me first as a concept for a short story. At that point in time, I only had this visualisation of the titular possum man, and not much of anything else.
 It was engaging with class discussions and being in situations where I was asked to explain my idea that encouraged me to think in more detail. There had to a narrative for readers to experience and, in order to meet accepted definitions of e-literature, it would benefit from having some semblance of a ‘meaning’.
 I eventually landed on the theme of alcoholism as a framework for the story. The emergence of the possum man in the protagonist’s life represents his turn to unhealthy habits, and its lingering presence his inability to shake them. This concept became evident, too, in the overall shape of the story. From the get-go, I knew I wanted there to be a linear path for users to follow, but in researching e-literature, I realised the possibility of incorporating breakaway routes that, unavoidably, would return to the plot. Attempts to do otherwise result in self-destructive loops.
